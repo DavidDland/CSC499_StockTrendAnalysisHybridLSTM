@@ -18,8 +18,7 @@ This project explores the effectiveness of combining **historical stock price da
 - Model evaluation using metrics such as:
   - **Binary Cross-Entropy Loss (BCE)**
   - **Accuracy**
-  - **RMSE (Root Mean Squared Error)**
-  - **MAE (Mean Absolute Error)**
+  - **F1-Score**
 
 ---
 
