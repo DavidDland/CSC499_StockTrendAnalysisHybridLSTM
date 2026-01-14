@@ -1,5 +1,3 @@
----
-
 # LSTM-FinBERT Stock Trend Prediction
 
 ## Overview
@@ -60,7 +58,7 @@ These scripts define the machine learning models used in the project.
 2. Process and clean the data using `timecleaning.py` and `clean_OHLCdata.py`.
 
 ### Step 2: Feature Engineering
-1. Use `calc_%avg.py` to calculate daily return percentages and intraday range percentages.
+1. Use `calc/%avg.py` to calculate daily return percentages and intraday range percentages.
 2. Merge datasets and organize them using `data_organization.py`.
 
 ### Step 3: Data Preparation
