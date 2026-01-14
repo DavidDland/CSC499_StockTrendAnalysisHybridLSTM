@@ -1,0 +1,6 @@
+daily_return_%
+range_%
+vol_z
+positive
+negative
+neutral
